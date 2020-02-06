@@ -20,7 +20,7 @@
     "@angular/platform-browser-dynamic": "^8.0.0",
     "@angular/router": "^8.0.0",
     "@typescript-eslint/parser": "^2.16.0",
-    "bootstrap": "3.3.7",
+    "bootstrap": "3.4.1",
     "core-js": "^3.1.2",
     "eslint": "^6.8.0",
     "eslint-plugin-html": "^6.0.0",
